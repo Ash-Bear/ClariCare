@@ -1,0 +1,194 @@
+/* ─── ClariCare — Clean Minimalist Styles ────────────────────────── */
+
+/* Smooth scrollbar */
+::-webkit-scrollbar {
+    width: 6px;
+}
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+::-webkit-scrollbar-thumb {
+    background: rgba(16, 185, 129, 0.2);
+    border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: rgba(16, 185, 129, 0.4);
+}
+
+/* Custom focus styles */
+*:focus-visible {
+    outline: 2px solid rgba(16, 185, 129, 0.3);
+    outline-offset: 2px;
+    border-radius: 4px;
+}
+
+/* Textarea custom style */
+textarea {
+    scrollbar-width: thin;
+    scrollbar-color: rgba(16, 185, 129, 0.2) transparent;
+}
+
+/* Symptom tag animations */
+.symptom-tag {
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+.symptom-tag:hover {
+    background: #ecfdf5; /* emerald-50 */
+    border-color: #a7f3d0; /* emerald-200 */
+    color: #047857; /* emerald-700 */
+}
+.symptom-tag:active {
+    transform: scale(0.95);
+}
+.symptom-tag.active {
+    background: #10b981; /* emerald-500 */
+    border-color: #059669; /* emerald-600 */
+    color: white;
+}
+
+/* Confidence bar */
+.confidence-bar {
+    height: 6px;
+    border-radius: 999px;
+    background: #f1f5f9; /* slate-100 */
+    overflow: hidden;
+}
+.confidence-bar-fill {
+    height: 100%;
+    border-radius: 999px;
+    transition: width 0.8s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Risk level pulse animation */
+.risk-pulse {
+    animation: risk-pulse 2s ease-in-out infinite;
+}
+@keyframes risk-pulse {
+    0%, 100% {
+        box-shadow: 0 0 0 0 var(--risk-glow-color, rgba(16, 185, 129, 0.2));
+    }
+    50% {
+        box-shadow: 0 0 0 8px rgba(16, 185, 129, 0);
+    }
+}
+
+/* Cause tag */
+.cause-tag {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 12px;
+    border-radius: 8px;
+    font-size: 0.8125rem;
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    color: #475569;
+    transition: all 0.2s;
+}
+.cause-tag:hover {
+    background: #ecfdf5;
+    border-color: #a7f3d0;
+    color: #047857;
+}
+
+/* Specialist card */
+.specialist-card {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 12px 16px;
+    border-radius: 12px;
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.02);
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+.specialist-card:hover {
+    border-color: #10b981;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px -1px rgba(16, 185, 129, 0.1), 0 2px 4px -1px rgba(16, 185, 129, 0.06);
+}
+.specialist-card.primary {
+    background: #f0fdf4; /* green-50 */
+    border-color: #bbf7d0; /* green-200 */
+}
+
+/* Lifestyle tip card */
+.lifestyle-tip {
+    padding: 12px 16px;
+    border-radius: 12px;
+    background: #f0fdf4;
+    border: 1px solid #bbf7d0;
+    font-size: 0.8125rem;
+    color: #166534;
+    transition: all 0.2s;
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+}
+.lifestyle-tip:hover {
+    background: #dcfce7;
+}
+
+/* Symptom detected card */
+.symptom-detected {
+    padding: 14px 16px;
+    border-radius: 12px;
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.02);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+.symptom-detected:hover {
+    border-color: #a7f3d0;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px -1px rgba(16, 185, 129, 0.1);
+}
+
+/* Loading shimmer */
+.shimmer {
+    background: linear-gradient(
+        90deg,
+        #f8fafc 25%,
+        #f1f5f9 50%,
+        #f8fafc 75%
+    );
+    background-size: 200% 100%;
+    animation: shimmer 2s linear infinite;
+}
+@keyframes shimmer {
+    0% { background-position: 200% 0; }
+    100% { background-position: -200% 0; }
+}
+
+/* Animate sections in on scroll */
+.animate-on-scroll {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: all 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+}
+.animate-on-scroll.visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* Error state */
+.error-shake {
+    animation: shake 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+}
+@keyframes shake {
+    0%, 100% { transform: translateX(0); }
+    25% { transform: translateX(-8px); }
+    75% { transform: translateX(8px); }
+}
+
+/* Risk colors */
+.risk-low {
+    --risk-glow-color: rgba(34, 197, 94, 0.3);
+}
+.risk-medium {
+    --risk-glow-color: rgba(245, 158, 11, 0.3);
+}
+.risk-high {
+    --risk-glow-color: rgba(239, 68, 68, 0.3);
+}
