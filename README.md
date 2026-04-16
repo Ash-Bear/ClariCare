@@ -96,7 +96,7 @@ If you use ClariCare in research, please cite:
   title={ClariCare: Hybrid AI System for Medical Symptom Analysis},
   author={Ash-Bear},
   year={2026},
-  url={https://github.com/Ash-Bear/claricare}
+  url={https://github.com/Ash-Bear/ClariCare}
 }
 ```
  
