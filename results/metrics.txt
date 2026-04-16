@@ -1,0 +1,13 @@
+========================================
+FINAL EVALUATION METRICS:
+========================================
+Total True Positives (TP) : 43
+Total False Positives (FP): 18
+Total False Negatives (FN): 9
+----------------------------------------
+Accuracy  : 99.18%
+Precision : 70.49%
+Recall    : 82.69%
+F1-Score  : 76.11%
+========================================
+Note: Expand EVALUATION_DATASET with more queries to get more reliable overall metrics.

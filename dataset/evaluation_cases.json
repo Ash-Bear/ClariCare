@@ -1,0 +1,675 @@
+[
+    [
+        "My numb arm is very noticeable, plus I have discharge with odor.",
+        [
+            "numbness",
+            "vaginal_discharge"
+        ]
+    ],
+    [
+        "sores around mouth is ruining my day.",
+        [
+            "cold_sores"
+        ]
+    ],
+    [
+        "I have throat pain, irregular pulse, and dental pain.",
+        [
+            "sore_throat",
+            "irregular_pulse",
+            "toothache"
+        ]
+    ],
+    [
+        "Does anyone know a remedy for jaundice?",
+        [
+            "jaundice"
+        ]
+    ],
+    [
+        "I'm really worried about my scaling skin condition.",
+        [
+            "psoriasis"
+        ]
+    ],
+    [
+        "I have been experiencing a lot of heart skipping lately.",
+        [
+            "irregular_pulse"
+        ]
+    ],
+    [
+        "I'm suffering from belly is bloated and hearing muffled at the same time.",
+        [
+            "bloating",
+            "hearing_loss"
+        ]
+    ],
+    [
+        "I have been experiencing a lot of severe allergy lately.",
+        [
+            "allergic_reaction"
+        ]
+    ],
+    [
+        "I can't seem to stop sinus congestion.",
+        [
+            "runny_nose"
+        ]
+    ],
+    [
+        "I am dealing with hyperthermia and also short term memory.",
+        [
+            "sunstroke",
+            "memory_loss"
+        ]
+    ],
+    [
+        "I am dealing with mucus in chest, I strongly feel non stop coughing, and I also have using inhaler.",
+        [
+            "chest_congestion",
+            "cough",
+            "asthma"
+        ]
+    ],
+    [
+        "I'm suffering from nasal polyps and heart beating fast at the same time.",
+        [
+            "nasal_polyps",
+            "palpitations"
+        ]
+    ],
+    [
+        "I have bruises appearing, can't breathe through nose, and phlegm in chest.",
+        [
+            "bruising",
+            "runny_nose",
+            "chest_congestion"
+        ]
+    ],
+    [
+        "I can't seem to stop loss of strength.",
+        [
+            "muscle_weakness"
+        ]
+    ],
+    [
+        "My conjunctivitis is very noticeable, plus I have pimple outbreak.",
+        [
+            "pink_eye",
+            "acne"
+        ]
+    ],
+    [
+        "I'm suffering from soaking through clothes and belly is bloated at the same time.",
+        [
+            "excessive_sweating",
+            "bloating"
+        ]
+    ],
+    [
+        "I have no urine output, sight lost, and hiccups that won't stop.",
+        [
+            "urinary_retention",
+            "vision_loss",
+            "hiccups_chronic"
+        ]
+    ],
+    [
+        "I am dealing with too hot outside, I strongly feel hematuria, and I also have muscle spasms.",
+        [
+            "sunstroke",
+            "blood_in_urine",
+            "muscle_cramps"
+        ]
+    ],
+    [
+        "dark yellow pee is ruining my day.",
+        [
+            "dark_urine"
+        ]
+    ],
+    [
+        "Woke up with loss of interest and bowel movements frequent. What should I do?",
+        [
+            "depression",
+            "diarrhea"
+        ]
+    ],
+    [
+        "I'm suffering from breast discomfort and feeling faint from low pressure at the same time.",
+        [
+            "breast_pain",
+            "low_blood_pressure"
+        ]
+    ],
+    [
+        "I'm really worried about my stomach running.",
+        [
+            "diarrhea"
+        ]
+    ],
+    [
+        "My doctor says I have heart pain.",
+        [
+            "chest_pain"
+        ]
+    ],
+    [
+        "I am dealing with very thirsty and also eye infection.",
+        [
+            "dehydration",
+            "pink_eye"
+        ]
+    ],
+    [
+        "Does anyone know a remedy for black tarry stool?",
+        [
+            "rectal_bleeding"
+        ]
+    ],
+    [
+        "asthma is ruining my day.",
+        [
+            "asthma"
+        ]
+    ],
+    [
+        "I'm suffering from eye discharge and speech is slurred at the same time.",
+        [
+            "pink_eye",
+            "speech_difficulty"
+        ]
+    ],
+    [
+        "I'm really worried about my loud breathing at night.",
+        [
+            "snoring"
+        ]
+    ],
+    [
+        "I can't seem to stop cycle is off.",
+        [
+            "irregular_periods"
+        ]
+    ],
+    [
+        "I am dealing with allergy, I strongly feel full body pain, and I also have blood glucose low.",
+        [
+            "allergic_reaction",
+            "body_aches",
+            "hypoglycemia"
+        ]
+    ],
+    [
+        "I have hypoglycemia, eyes are yellow, and stiff neck.",
+        [
+            "hypoglycemia",
+            "jaundice",
+            "neck_pain"
+        ]
+    ],
+    [
+        "I'm suffering from sneezing fits and loss of balance at the same time.",
+        [
+            "sneezing_fits",
+            "dizziness"
+        ]
+    ],
+    [
+        "I have been experiencing a lot of hair thinning on top lately.",
+        [
+            "hair_loss"
+        ]
+    ],
+    [
+        "I have been experiencing a lot of sneezing lately.",
+        [
+            "sneezing_fits"
+        ]
+    ],
+    [
+        "I have can't speak properly, allergic to gluten, and puked.",
+        [
+            "speech_difficulty",
+            "food_allergy",
+            "vomiting"
+        ]
+    ],
+    [
+        "My doctor says I have sclera yellow.",
+        [
+            "jaundice"
+        ]
+    ],
+    [
+        "I am dealing with impotence, I strongly feel bleeding heavily, and I also have partial vision loss.",
+        [
+            "erectile_dysfunction",
+            "heavy_bleeding",
+            "vision_loss"
+        ]
+    ],
+    [
+        "My fainted is very noticeable, plus I have unexplained anger.",
+        [
+            "fainting",
+            "mood_swings"
+        ]
+    ],
+    [
+        "Does anyone know a remedy for off balance?",
+        [
+            "dizziness"
+        ]
+    ],
+    [
+        "I have been experiencing a lot of skin discoloration lately.",
+        [
+            "skin_discoloration"
+        ]
+    ],
+    [
+        "I'm suffering from difficulty breathing and bruising at the same time.",
+        [
+            "shortness_of_breath",
+            "bruising"
+        ]
+    ],
+    [
+        "alopecia is ruining my day.",
+        [
+            "hair_loss"
+        ]
+    ],
+    [
+        "Woke up with unable to move leg and been throwing up. What should I do?",
+        [
+            "paralysis",
+            "vomiting"
+        ]
+    ],
+    [
+        "I am dealing with i broke my bone and also arch pain.",
+        [
+            "fracture",
+            "foot_pain"
+        ]
+    ],
+    [
+        "I'm really worried about my sleep apnea.",
+        [
+            "snoring"
+        ]
+    ],
+    [
+        "Could heavy period lead to chest tightness?",
+        [
+            "heavy_bleeding",
+            "chest_pain"
+        ]
+    ],
+    [
+        "My stomach bug is very noticeable, plus I have fever blister.",
+        [
+            "food_poisoning",
+            "cold_sores"
+        ]
+    ],
+    [
+        "Could watery stool lead to jaw pain?",
+        [
+            "diarrhea",
+            "toothache"
+        ]
+    ],
+    [
+        "Does anyone know a remedy for temp is high?",
+        [
+            "fever"
+        ]
+    ],
+    [
+        "I have been experiencing a lot of scaling skin condition lately.",
+        [
+            "psoriasis"
+        ]
+    ],
+    [
+        "I have sexual dysfunction, patches of hair loss, and food doesn't appeal.",
+        [
+            "erectile_dysfunction",
+            "hair_loss",
+            "loss_of_appetite"
+        ]
+    ],
+    [
+        "I am dealing with shortness of breath, I strongly feel not feeling like eating, and I also have mucus in chest.",
+        [
+            "shortness_of_breath",
+            "loss_of_appetite",
+            "chest_congestion"
+        ]
+    ],
+    [
+        "partial deafness is ruining my day.",
+        [
+            "hearing_loss"
+        ]
+    ],
+    [
+        "I am dealing with sour taste in mouth and also my back hurts.",
+        [
+            "heartburn",
+            "back_pain"
+        ]
+    ],
+    [
+        "I am dealing with unable to move leg and also out of breath.",
+        [
+            "paralysis",
+            "shortness_of_breath"
+        ]
+    ],
+    [
+        "Does anyone know a remedy for hiccuping a lot?",
+        [
+            "hiccups"
+        ]
+    ],
+    [
+        "My doctor says I have high blood sugar.",
+        [
+            "diabetes_symptoms"
+        ]
+    ],
+    [
+        "I'm really worried about my heart beating fast.",
+        [
+            "palpitations"
+        ]
+    ],
+    [
+        "Does anyone know a remedy for hemoptysis?",
+        [
+            "coughing_blood"
+        ]
+    ],
+    [
+        "Woke up with side pain lower back and keep coughing. What should I do?",
+        [
+            "kidney_pain",
+            "cough"
+        ]
+    ],
+    [
+        "My bloody urine is very noticeable, plus I have feeling worthless.",
+        [
+            "blood_in_urine",
+            "depression"
+        ]
+    ],
+    [
+        "i threw up is ruining my day.",
+        [
+            "vomiting"
+        ]
+    ],
+    [
+        "I have been experiencing a lot of hematuria lately.",
+        [
+            "blood_in_urine"
+        ]
+    ],
+    [
+        "My coughing up blood is very noticeable, plus I have constant sneezing.",
+        [
+            "coughing_blood",
+            "runny_nose"
+        ]
+    ],
+    [
+        "I'm suffering from vomit and unexplained weight loss at the same time.",
+        [
+            "vomiting",
+            "weight_loss"
+        ]
+    ],
+    [
+        "Does anyone know a remedy for sweating suddenly?",
+        [
+            "hot_flashes"
+        ]
+    ],
+    [
+        "Woke up with swollen abdomen and sunstroke. What should I do?",
+        [
+            "abdominal_swelling",
+            "sunstroke"
+        ]
+    ],
+    [
+        "My doctor says I have infected cut.",
+        [
+            "wound_infection"
+        ]
+    ],
+    [
+        "My doctor says I have sore on lip.",
+        [
+            "cold_sores"
+        ]
+    ],
+    [
+        "yellow eyes is ruining my day.",
+        [
+            "jaundice"
+        ]
+    ],
+    [
+        "I can't seem to stop itchy red eyes with discharge.",
+        [
+            "pink_eye"
+        ]
+    ],
+    [
+        "Could nervous lead to my chest is tight?",
+        [
+            "anxiety",
+            "chest_pain"
+        ]
+    ],
+    [
+        "I am dealing with memory problems, I strongly feel skull hurts, and I also have bladder infection.",
+        [
+            "memory_loss",
+            "headache",
+            "uti"
+        ]
+    ],
+    [
+        "I am dealing with toothache and also hiccups that won't stop.",
+        [
+            "toothache",
+            "hiccups_chronic"
+        ]
+    ],
+    [
+        "I have vision loss, belching, and sudden loss of movement.",
+        [
+            "vision_loss",
+            "heartburn",
+            "paralysis"
+        ]
+    ],
+    [
+        "I'm suffering from difficulty concentrating and frequent urination at the same time.",
+        [
+            "memory_loss",
+            "frequent_urination"
+        ]
+    ],
+    [
+        "I can't seem to stop sweating too much.",
+        [
+            "excessive_sweating"
+        ]
+    ],
+    [
+        "My skin feels tight is very noticeable, plus I have pain in side.",
+        [
+            "dry_skin",
+            "kidney_pain"
+        ]
+    ],
+    [
+        "I am dealing with food contaminated, I strongly feel sunstroke, and I also have whole body aches.",
+        [
+            "food_poisoning",
+            "sunstroke",
+            "body_aches"
+        ]
+    ],
+    [
+        "I'm suffering from skin feels tight and stomach bug at the same time.",
+        [
+            "dry_skin",
+            "food_poisoning"
+        ]
+    ],
+    [
+        "I'm really worried about my can't hear.",
+        [
+            "hearing_loss"
+        ]
+    ],
+    [
+        "I have stepping hurts, skin turning yellow, and neck is sore.",
+        [
+            "foot_pain",
+            "skin_discoloration",
+            "neck_pain"
+        ]
+    ],
+    [
+        "I'm really worried about my wound not healing.",
+        [
+            "wound_infection"
+        ]
+    ],
+    [
+        "I can't seem to stop fast heart rate.",
+        [
+            "palpitations"
+        ]
+    ],
+    [
+        "I am dealing with cramping muscle and also sunburn.",
+        [
+            "muscle_cramps",
+            "sunburn"
+        ]
+    ],
+    [
+        "I am dealing with feeling empty, I strongly feel muscle pain, and I also have hypotension.",
+        [
+            "depression",
+            "body_aches",
+            "low_blood_pressure"
+        ]
+    ],
+    [
+        "I'm really worried about my hairline fracture.",
+        [
+            "fracture"
+        ]
+    ],
+    [
+        "I'm suffering from sugar in blood and stomach is paining at the same time.",
+        [
+            "diabetes_symptoms",
+            "stomach_pain"
+        ]
+    ],
+    [
+        "Does anyone know a remedy for snoring?",
+        [
+            "snoring"
+        ]
+    ],
+    [
+        "I am dealing with slurring words, I strongly feel itchy red eyes with discharge, and I also have no period.",
+        [
+            "speech_difficulty",
+            "pink_eye",
+            "irregular_periods"
+        ]
+    ],
+    [
+        "I am dealing with allergic hives and also cloudy urine.",
+        [
+            "hives",
+            "uti"
+        ]
+    ],
+    [
+        "Could muffled hearing lead to blood glucose low?",
+        [
+            "ear_pain",
+            "hypoglycemia"
+        ]
+    ],
+    [
+        "Does anyone know a remedy for hearing reduced?",
+        [
+            "hearing_loss"
+        ]
+    ],
+    [
+        "I'm really worried about my thirsty constantly.",
+        [
+            "dry_mouth"
+        ]
+    ],
+    [
+        "Could body is paining lead to abdomen is swollen?",
+        [
+            "body_aches",
+            "abdominal_swelling"
+        ]
+    ],
+    [
+        "Could temples hurting lead to my ear hurts?",
+        [
+            "headache",
+            "ear_pain"
+        ]
+    ],
+    [
+        "Could eyes are yellow lead to itchy scaly patches?",
+        [
+            "jaundice",
+            "psoriasis"
+        ]
+    ],
+    [
+        "My blisters on skin is very noticeable, plus I have sugar level elevated.",
+        [
+            "rash",
+            "diabetes_symptoms"
+        ]
+    ],
+    [
+        "Woke up with distorted vision and elevated blood sugar. What should I do?",
+        [
+            "blurred_vision",
+            "diabetes_symptoms"
+        ]
+    ],
+    [
+        "AMS is ruining my day.",
+        [
+            "altitude_sickness"
+        ]
+    ]
+]
